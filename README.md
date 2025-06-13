@@ -1,4 +1,4 @@
-# 🔐 SecurityMarks — Complete Bookmarks & Tool Index  
+# 🔐 SecurityMarks — Bookmarks & Tool Index  
 *(extracted verbatim from `SecurityMarks.html`)*
 :contentReference[oaicite:0]{index=0}
 
