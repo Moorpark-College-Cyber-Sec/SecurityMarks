@@ -77,7 +77,9 @@ Every sub-folder below is a full upstream project (or binary) checked out locall
 
 #### Add a new tool
 git submodule add https://github.com/some/project newTool
-echo "- **newTool** | Category | One-line purpose (<https://github.com/some/project>)" >> README.md
+echo "- **newTool** | Category | One-line purpose (<https://github.com/some/project>)" 
+
+# >> README.md
 
 #### Update all repos
 git submodule foreach git pull --ff-only
