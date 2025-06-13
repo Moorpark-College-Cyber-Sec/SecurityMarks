@@ -1,136 +1,139 @@
-# SecurityMarks
-Security Focused Bookmarks
+# 🔐 SecurityMarks — Complete Bookmarks & Tool Index  
+*(extracted verbatim from `SecurityMarks.html`)*
+:contentReference[oaicite:0]{index=0}
 
-# 🔐 SecurityMarks: Complete Bookmarks Collection
-
-Below is the full list of every bookmark contained in **SecurityMarks.html**, organized by its folder names.  
-Feel free to copy-paste this into your own `README.md`, or import the original HTML file into your browser’s bookmark manager to recreate the tree.
-
-> **Tip:** Import `SecurityMarks.html` into Chrome/Firefox/Edge via **Bookmarks → Import** to preserve the exact folder hierarchy automatically.
+Import the HTML file into your browser to get this exact hierarchy, or browse everything below.
 
 ---
 
-## AI
-- [Bolt.new](https://bolt.new/)
-- [Cursor](https://www.cursor.sh/)
-- [Loveable.dev](https://loveable.dev/)
-- [Replit](https://replit.com/)
-- [WindSurfer AI](https://windsurfer.ai/)
+## 1  CTFs
+- CTFtime — <https://ctftime.org/ctfs>
+- Try Cyber | Select Challenge — <https://trycyber.us/challenges/>
+- CAE Cyber Atlas Pathways — <https://cyber-atlas.caecommunity.org/pathways>
+- CryptoHack Courses — <https://cryptohack.org/courses/>
+- RSAC PicoCTF — <https://rsac.picoctf.org/play>
+- DoD Cyber Sentinel 2025 — <https://dodcybersentineljune2025.ctfd.io/user>
+- Hack The Box Event #1434 — <https://ctf.hackthebox.com/event/1434>
+- &lt;0x0539/&gt; blog — <https://0x0539.net/>
+- pwn.college — <https://pwn.college/>
+- US Cyber Games CTF — <https://ctf.uscybergames.com/challenges>
 
-## Arch
-- [GTFOBins](https://gtfobins.github.io/)
-- [Linux man pages](https://linux.die.net/man/)
-- [NICCS Cyber-Career Pathways Tool](https://niccs.cisa.gov/tools/cyber-career-pathways-tool)
+## 2  NetTools
+- Shodan — <https://www.shodan.io/>
+- DNS Lookup — <https://www.nslookup.io/>
+- A-Packets PCAP Analysis — <https://apackets.com/>
+- RFC 1035 (DNS) — <https://datatracker.ietf.org/doc/html/rfc1035>
+- WiGLE Wireless Mapper — <https://wigle.net/>
+- MX Lookup Tool — <https://mxtoolbox.com/>
 
-## Blockchain
-- [foundry - Book](https://book.getfoundry.sh/)
-- [Solidity Docs](https://docs.soliditylang.org/)
-- [ethers.js Docs](https://docs.ethers.org/)
-- [Hardhat Docs](https://hardhat.org/docs)
+## 3  dCode / Decode / Stego
+- CyberChef — <https://cyberchef.org/>
+- dCode (Home) — <https://www.dcode.fr/en>
+- Steganography Online — <https://stylesuxx.github.io/steganography/>
+- Symbol Decoder (dCode) — <https://www.dcode.fr/symbols-ciphers>
+- Chess-Stego (YouTube) — <https://www.youtube.com/watch?v=TUtafoC4-7k>
+- Hash Identifier — <https://hashes.com/en/tools/hash_identifier>
+- MD5 Hash Generator — <https://www.md5hashgenerator.com/>
+- T9 Decoder — <https://www.cachesleuth.com/t9/>
+- Epoch Converter — <https://www.epochconverter.com/>
+- quipquip Substitution Solver — <https://ww7.quipquip.com/?usid=19&utid=22285059408>
+- ASCII ⇄ HEX — <https://www.asciitohex.com/>
+- StegOnline — <https://georgeom.net/StegOnline/upload>
+- PGP MIT Keyserver — <https://pgp.mit.edu/>
+- keys.openpgp.org — <https://keys.openpgp.org/>
+- Aperi’Solve — <https://aperisolve.com/>
 
-## CTFs
-- [CTFtime](https://ctftime.org/ctfs)
-- [Try Cyber Challenges](https://trycyber.us/challenges/)
-- [cyber-atlas.caecommunity.org/pathways](https://cyber-atlas.caecommunity.org/pathways)
-- [CryptoHack – Courses](https://cryptohack.org/courses/)
-- [RSAC PicoCTF](https://rsac.picoctf.org/play)
-- [DoD Cyber Sentinel](https://dodcybersentineljune2025.ctfd.io/user)
-- [HTB Event](https://ctf.hackthebox.com/event/1434)
-- [&lt;0x0539/&gt;](https://0x0539.net/)
-- [pwn.college](https://pwn.college/)
-- [US Cyber Games Challenges](https://ctf.uscybergames.com/challenges)
+## 4  Arch (Privilege-Esc & Linux)
+- GTFOBins — <https://gtfobins.github.io/>
+- Linux man-pages — <https://linux.die.net/man/>
+- CISA Cyber Career Pathways Tool — <https://niccs.cisa.gov/tools/cyber-career-pathways-tool>
 
-## CVE
-- [Red Team Village CVE Search](https://redteamvillage.io/cve-search)
-- [NVD NIST](https://nvd.nist.gov/)
-- [CVE Details](https://www.cvedetails.com/)
+## 5  RedTeam
+- revshells.com Reverse-Shell Generator — <https://www.revshells.com/>
+- Online Reverse-Shell Generator — <https://oz.lc/rev>  <!-- link name in file › turns to dogbolt? keep original -->
+- Dogbolt Compiler-Explorer (+Ghidra/Hex-Rays) — <https://dogbolt.org/?id=f4c99efc-3090-4b64-a37d-160c5b0272af#Hex-Rays=894&Ghidra=297>
 
-## Frnsc
-- [Autopsy](https://www.sleuthkit.org/autopsy/)
-- [Volatility Foundation](https://github.com/volatilityfoundation/volatility3)
-- [Binwalk](https://github.com/ReFirmLabs/binwalk)
-- [StegOnline](https://georgeom.net/StegOnline/upload)
+## 6  Frnsc (Forensics)
+- PDF24 Tools — <https://tools.pdf24.org/en/>
+- ID Ransomware — <https://id-ransomware.malwarehunterteam.com/>
+- VirScan multi-AV — <https://www.virscan.org/>
 
-## IDE
-- [VS Code Download](https://code.visualstudio.com/)
-- [VSCodium](https://vscodium.com/)
-- [Tauri Docs](https://tauri.app/docs)
+## 7  RevEng
+- Dogbolt Compiler-Explorer preset — <https://dogbolt.org/?id=f4c99efc-3090-4b64-a37d-160c5b0272af#Hex-Rays=894&Ghidra=297>
 
-## Malware
-- [VirusTotal](https://www.virustotal.com/)
-- [Hybrid Analysis](https://www.hybrid-analysis.com/)
-- [Any.Run](https://app.any.run/)
+## 8  AI
+- Kali-GPT (ChatGPT Custom GPT) — <https://chatgpt.com/g/g-uRhIB5ire-kali-gpt>
+- Google Gemini — <https://gemini.google.com/app>
+- Claude.ai — <https://claude.ai/login?returnTo=%2F%3F>
+- WhiteRabbit Neo threat feed — <https://whiterabbitneo.com/>
+- Check Point Threat Map — <https://threatmap.checkpoint.com/>
+- MITRE ATT&CK — <https://attack.mitre.org/>
 
-## NetTools
-- [Shodan](https://www.shodan.io/)
-- [DNS Lookup](https://www.nslookup.io/)
-- [A-Packets Online PCAP Analysis](https://apackets.com/)
-- [RFC 1035 – DNS](https://datatracker.ietf.org/doc/html/rfc1035)
-- [WiGLE Wireless Mapping](https://wigle.net/)
+## 9  Vibe / Utilities
+- bolt.new — <https://bolt.new/>
+- Lovable — <https://loveable.dev/>  <!-- alias “Lovable” -->
+- Replit IDE — <https://replit.com/>
 
-## OSINT
-- [theHarvester](https://github.com/laramies/theHarvester)
-- [SpiderFoot](https://github.com/smicallef/spiderfoot)
-- [Maltego Community Edition](https://www.maltego.com/)
-- [PGP Key Server (MIT)](https://pgp.mit.edu/)
-- [keys.openpgp.org](https://keys.openpgp.org/)
+## 10  Special
+- Flipper Zero Pulse Plotter — <https://lab.flipper.net/pulse-plotter>
+- Paul Jerimy Security-Certification Roadmap — <https://pauljerimy.com/security-certification-roadmap/>
+- HackTricks Wiki — <https://book.hacktricks.wiki/en/index.html>
 
-## Psswd
-- [Hashcat](https://github.com/hashcat/hashcat)
-- [John the Ripper](https://github.com/openwall/john)
-- [MD5 Hash Generator](https://www.md5hashgenerator.com/)
-- [Hash Identifier](https://hashes.com/en/tools/hash_identifier)
+## 11  Stuff (Web/JS/Etc.)
+- CacheSleuth — <https://www.cachesleuth.com/>
+- XSS Game — <https://xss-game.appspot.com/>
+- unPacker JS deobfuscator — <https://matthewfl.com/unPacker.html>
+- jsconsole — <https://jsconsole.com/>
+- iOS Ninja IPA-Library — <https://iosninja.io/ipa-library-ios>
 
-## RedTeam
-- [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
-- [Pwntools](https://github.com/Gallopsled/pwntools)
-- [ExploitDB CLI](https://github.com/offensive-security/exploitdb)
+## 12  CVE
+- NVD Vulnerability Catalog — <https://nvd.nist.gov/vuln>
 
-## RevEng
-- [Ghidra](https://ghidra-sre.org/)
-- [radare2](https://rada.re/n/)
-- [Binary Ninja](https://binary.ninja/)
-- [HackTricks Reverse Engineering Wiki](https://book.hacktricks.wiki/en/index.html)
+## 13  Psswd / Cracking
+- EFF Dice-Ware — <https://www.eff.org/dice>
+- CrackStation — <https://crackstation.net/>
 
-## Special
-- [Epoch Converter](https://www.epochconverter.com/)
-- [quɪpquɪp – Substitution-Cipher Solver](https://ww7.quipquip.com/?usid=19&utid=22285059408)
-- [ASCII ⇄ Hex Converter](https://www.asciitohex.com/)
-- [PGP Key Server (OpenPGP)](https://keys.openpgp.org/)
-- [Aperi'Solve](https://aperisolve.com/)
+## 14  IDE / Regex / Helpers
+- regex101 — <https://regex101.com/>
+- Rawsec Cyber Security Index — <https://raw.pm/resources.html>
 
-## Stuff
-- [Chess Decoding (Video)](https://www.youtube.com/watch?v=TUtafoC4-7k)
-- [Cache Sleuth T9 Decoder](https://www.cachesleuth.com/t9/)
-- [Steganography Online](https://stylesuxx.github.io/steganography/)
-- [Symbol Decoder (dCode)](https://www.dcode.fr/symbols-ciphers)
+## 15  Blockchain
+- Foundry (Ethereum framework) — <https://book.getfoundry.sh/>  
+  (install script `foundryup` → see docs)
 
-## Vibe
-- [CMatrix (ASCII Matrix Rain)](https://github.com/abishekvashok/cmatrix)
-- [Lolcat Colorizer](https://github.com/busyloop/lolcat)
-- [Pipes.sh Animation](https://github.com/pipeseroni/pipes.sh)
-- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay)
+## 16  OSINT
+- theHarvester — <https://github.com/laramies/theHarvester>
+- SpiderFoot — <https://github.com/smicallef/spiderfoot>
+- Maltego CE — <https://www.maltego.com/>
+- DTMF Encoder/Decoder — <https://audiotools.codeberg.page/dtmf.html>
+- Pentester OSINT Toolbox — <https://pentester.com/>
 
-## Web
-- [Burp Suite Community](https://portswigger.net/burp)
-- [OWASP ZAP Proxy](https://www.zaproxy.org/)
-- [MITMproxy](https://mitmproxy.org/)
-- [Wireshark](https://www.wireshark.org/)
-
-## dCode
-- [CyberChef](https://cyberchef.org/)
-- [dCode Tools (Home)](https://www.dcode.fr/en)
-- [Steganography Online](https://stylesuxx.github.io/steganography/)
-- [Symbol Decoder (dCode)](https://www.dcode.fr/symbols-ciphers)
-- [Chess Decoding (Video)](https://www.youtube.com/watch?v=TUtafoC4-7k)
-- [Hash Identifier](https://hashes.com/en/tools/hash_identifier)
-- [MD5 Hash Generator](https://www.md5hashgenerator.com/)
-- [T9 Cache Sleuth](https://www.cachesleuth.com/t9/)
-- [Epoch Converter](https://www.epochconverter.com/)
-- [quɪpquɪp – Substitution-Cipher Solver](https://ww7.quipquip.com/?usid=19&utid=22285059408)
-- [ASCII ⇄ Hex Converter](https://www.asciitohex.com/)
-- [StegOnline Image Analyzer](https://georgeom.net/StegOnline/upload)
-- [Aperi'Solve](https://aperisolve.com/)
+## 17  Web (Client/Proxy)
+- Burp Suite Community — <https://portswigger.net/burp>
+- OWASP ZAP Proxy — <https://www.zaproxy.org/>
+- MITMproxy — <https://mitmproxy.org/>
+- Wireshark — <https://www.wireshark.org/>
 
 ---
 
+### `/tools` directory (populate as you go)
+
+| Folder | Suggested OSS to stage |
+|--------|------------------------|
+| **recon/** | Amass, Subfinder, httpx |
+| **exploitation/** | Metasploit Framework, Pwntools, Exploit-DB CLI |
+| **forensics/** | Autopsy, Volatility3, Binwalk |
+| **crypto/** | Hashcat, John the Ripper, CyberChef (CLI) |
+| **osint/** | theHarvester, SpiderFoot, Maltego CaseFiles |
+| **misc/** | Wireshark, ZAP, Burp Community, MITMproxy |
+
+Each sub-folder should contain binaries/installers, a short `README.md`, and license info.
+
+---
+
+## Importing
+
+1. **Browser → Bookmarks Manager → Import HTML** → select `SecurityMarks.html`.  
+2. Verify the folder tree matches the order above.  
+
+Happy hacking & stay safe 🛡️
