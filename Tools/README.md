@@ -73,24 +73,16 @@ Every sub-folder below is a full upstream project (or binary) checked out locall
 
 (Tip: most Markdown renderers support inline links; hover over the URL or click to jump straight to the upstream repo. If a row looks unfamiliar, it’s probably a personal script or fork dropped in. Will circle back later for more precise descriptions)
 
-Contributing / Maintenance
-Add a new tool
+## Contributing / Maintenance
 
-bash
-Copy
-Edit
+#### Add a new tool
 git submodule add https://github.com/some/project newTool
 echo "- **newTool** | Category | One-line purpose (<https://github.com/some/project>)" >> README.md
-Update all repos
 
-bash
-Copy
-Edit
+#### Update all repos
 git submodule foreach git pull --ff-only
 Pin versions
 Use tags or commit hashes in .gitmodules if you need deterministic revisits for write-ups.
-
-
 
 > **How to replicate from scratch**
 
