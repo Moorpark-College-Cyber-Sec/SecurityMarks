@@ -1,6 +1,5 @@
 # 🔐 SecurityMarks — Bookmarks & Tool Index  
 *(extracted verbatim from `SecurityMarks.html`)*
-:contentReference[oaicite:0]{index=0}
 
 Import the HTML file into your browser to get this exact hierarchy, or browse MOST of the imports below.
 
