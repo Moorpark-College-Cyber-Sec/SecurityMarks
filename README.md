@@ -58,15 +58,13 @@ Import the HTML file into your browser to get this exact hierarchy, or browse MO
 - VirScan multi-AV — <https://www.virscan.org/>
 
 ## 7  RevEng
-- Dogbolt Compiler-Explorer preset — <https://dogbolt.org/?id=f4c99efc-3090-4b64-a37d-160c5b0272af#Hex-Rays=894&Ghidra=297>
+- Dogbolt Compiler-Explorer preset — <https://dogbolt.org/>
+- REMnux - <https://docs.remnux.org/>
 
 ## 8  AI
 - Kali-GPT (ChatGPT Custom GPT) — <https://chatgpt.com/g/g-uRhIB5ire-kali-gpt>
 - Google Gemini — <https://gemini.google.com/app>
 - Claude.ai — <https://claude.ai/login?returnTo=%2F%3F>
-- WhiteRabbit Neo threat feed — <https://whiterabbitneo.com/>
-- Check Point Threat Map — <https://threatmap.checkpoint.com/>
-- MITRE ATT&CK — <https://attack.mitre.org/>
 
 ## 9  Vibe / Utilities
 - bolt.new — <https://bolt.new/>
@@ -87,6 +85,8 @@ Import the HTML file into your browser to get this exact hierarchy, or browse MO
 
 ## 12  CVE
 - NVD Vulnerability Catalog — <https://nvd.nist.gov/vuln>
+- Check Point Threat Map — <https://threatmap.checkpoint.com/>
+- MITRE ATT&CK — <https://attack.mitre.org/>
 
 ## 13  Psswd / Cracking
 - EFF Dice-Ware — <https://www.eff.org/dice>
